@@ -33,7 +33,7 @@ run yarn install:pods
 
 - Build the project to the `./apps/extension/dist/` folder with
 ```bash
-yarn build extension
+yarn build:extension
 ```
 
 - Optionally, you may run yarn extension to run development mode:
