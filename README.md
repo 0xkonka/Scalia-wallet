@@ -1,17 +1,18 @@
 # 📝  About
 
-Scalia Wallet - is a non-custodial EVM multichain wallet available **browser extension**, **iOS** and **Android** applications.
+Oko Wallet - is a non-custodial EVM multichain wallet available **browser extension**, **iOS** and **Android** applications.
 
 The wallet supports all EVM chains, but **Klaytn, BNB Chain, Polygon, Ethereum, Arbitrum, Avalanche, Optimism,** and **Fantom** were added as default chains.
 
 The future releases will include a unique widget system. Information about this will be added soon.
 
+🌎 [https://www.okowallet.app/](https://www.okowallet.app/)
 
 ![application screenshot](./docs/assets/readme-banner.png)
 
 # ▶️  Installation
 
-There are extension and mobile application versions of Scalia Wallet, and here you can find instructions to build them:
+There are extension and mobile application versions of Oko Wallet, and here you can find instructions to build them:
 
 ## Environment setting up
 
@@ -33,7 +34,7 @@ run yarn install:pods
 
 - Build the project to the `./apps/extension/dist/` folder with
 ```bash
-yarn build:extension
+yarn build extension
 ```
 
 - Optionally, you may run yarn extension to run development mode:
